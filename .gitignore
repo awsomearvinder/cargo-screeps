@@ -2,10 +2,6 @@
 ###################
 target
 
-# Build files #
-###############
-Cargo.lock
-
 # Packages #
 ############
 *.7z
